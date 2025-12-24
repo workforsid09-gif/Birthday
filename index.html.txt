@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Happy Birthday ❤️</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: white;
+      text-align: center;
+    }
+    .container {
+      padding: 30px 15px;
+    }
+    h1 {
+      font-size: 2.8em;
+    }
+    p {
+      font-size: 1.2em;
+      max-width: 600px;
+      margin: 15px auto;
+      line-height: 1.6;
+    }
+    img {
+      width: 90%;
+      max-width: 320px;
+      border-radius: 20px;
+      margin: 25px auto;
+      box-shadow: 0 15px 35px rgba(0,0,0,0.4);
+    }
+    iframe {
+      margin-top: 30px;
+      border-radius: 15px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>🎉 Happy Birthday 🎉</h1>
+
+    <p>
+      On your special day, I just want you to know how important you are.
+      May this year bring you peace, happiness, and everything your heart
+      has been quietly wishing for 💙
+    </p>
+
+    <img src="photo.jpg" alt="Birthday Photo">
+
+    <p>
+      This song says everything I couldn’t put into words ✨
+    </p>
+
+    <iframe width="90%" height="200"
+      src="https://www.youtube.com/embed/4f1tY8N3rAo?autoplay=1"
+      frameborder="0"
+      allow="autoplay; encrypted-media"
+      allowfullscreen>
+    </iframe>
+
+    <p>Always cheering for you 🌙</p>
+  </div>
+</body>
+</html>
